@@ -1,0 +1,9 @@
+{
+	"name": "dfudacityproject4",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13fb0487-9c03-4ff8-bf51-e8b6f3764656",
+		"tenantId": "f958e84a-92b8-439f-a62d-4f45996b6d07"
+	}
+}
